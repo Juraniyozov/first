@@ -12,7 +12,7 @@ img{
     padding: 50px 150px;
 }
 .top{
-    background-image: url("img/chef.png");
+    background-image: url("rasm/chef.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 130px;
@@ -115,7 +115,7 @@ img{
     color: white;
 }
 .footer{
-    background-image: url("img/subscribe.png");
+    background-image: url("rasm/subscribe.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
